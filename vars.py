@@ -7,10 +7,11 @@ API_ID = int(environ.get("API_ID", "26375665"))
 API_HASH = environ.get("API_HASH", "568839157ce65f4d3a91647f022b6737")
 BOT_TOKEN = environ.get("BOT_TOKEN", "8380810929:AAEltCJe5zg4SE0lYav3NcSx02pTU8wMsC8")
 OWNER = int(environ.get("OWNER", "6834250190"))
-CREDIT = environ.get("CREDIT", "𝐒ɑη𝐣ɑy")
+CREDIT = environ.get("CREDIT", "𝐒нɑᎥ𝚝ɑη")
 LOG_CHANNEL = "-1003145375193" # log group me bot ko admin narur banaye full rights ke sath
 #WEBHOOK = True  # Don't change this
 #PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
+
 
 
 
